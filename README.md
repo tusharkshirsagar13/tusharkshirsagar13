@@ -8,7 +8,7 @@
     <em>"A problem-solver turning challenges into practical solutions."</em>
   </p>
 
-  <a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/tusharkshirsagar9540/)">
+  <a href="http://www.linkedin.com/in/tusharkshirsagar9540">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="[YOUR_LEETCODE_URL_HERE](https://leetcode.com/u/tusharkshirsagar_56/)">
+  <a href="https://leetcode.com/u/tusharkshirsagar_56/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 
@@ -75,11 +75,3 @@
 - **Spotify & Amazon:** Replicated complex layouts and user interfaces using pure **HTML & CSS** to master frontend fundamentals.
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tusharkshirsagar13&show_icons=true&theme=radical" alt="Tushar's Github Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkshirsagar13&layout=compact&theme=radical" alt="Top Langs" />
-</div>
