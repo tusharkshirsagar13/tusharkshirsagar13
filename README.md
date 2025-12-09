@@ -8,15 +8,15 @@
     <em>"A problem-solver turning challenges into practical solutions."</em>
   </p>
 
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/tusharkshirsagar9540/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:kshirsagartushar0356@gmail.com">
+  <a href="mailto:kshirsagartushar9540@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_URL_HERE">
+  <a href="[YOUR_LEETCODE_URL_HERE](https://leetcode.com/u/tusharkshirsagar_56/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 
@@ -28,7 +28,6 @@
 
 - 🎓 I am currently pursuing a **B.Tech in Information Technology** at **Pimpri Chinchwad College Of Engineering (PCCOE)** [2027].
 - 💻 I am a **Full Stack Developer** passionate about the **MERN Stack**.
-- 🏆 **Achievement:** Secured top 30/200 teams in **Smart India Hackathon (SIH) 2024** (Internal Round).
 - 🧩 I regularly practice DSA and problem-solving on **LeetCode**.
 - 🤝 I served as a Coordinator for the **Equal Opportunity Cell** event management team.
 
@@ -80,7 +79,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Tushar's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tusharkshirsagar13&show_icons=true&theme=radical" alt="Tushar's Github Stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkshirsagar13&layout=compact&theme=radical" alt="Top Langs" />
 </div>
