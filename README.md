@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year **B.Tech IT** student at **PCCOE, Pune** — graduating June 2027
+- 🎓 Final-year **B.Tech IT** student at **PCCOE, Pune** — graduating June 2027
 - 🛠️ Building full-stack web apps with the **MERN Stack** (MongoDB, Express, React, Node.js)
 - 🧩 Solved **150+ DSA problems** on LeetCode & GeeksforGeeks
 - 🏆 **Top 30 / 200+** teams — Smart India Hackathon 2024 internal qualifiers
