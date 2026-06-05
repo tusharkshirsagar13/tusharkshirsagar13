@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · B.Tech IT @ PCCOE, Pune (2027)
 
-<a href="http://www.linkedin.com/in/tusharkshirsagar9540">
+<a href="https://www.linkedin.com/in/tushar9540">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
