@@ -69,7 +69,7 @@
 
 ## 📂 Featured Projects
 
-### 🛒 [PCCOE Mart](https://github.com/tusharkshirsagar13/pccoe-mart)
+### 🛒 [PCCOE Mart](https://pccoe-mart-frontend.onrender.com/)
 > Campus marketplace platform for buying, selling, and lost-and-found listings — restricted to verified college-domain users.
 
 - **Stack:** React.js, Node.js, Express.js, MongoDB, AWS S3, JWT, Nodemailer
@@ -79,7 +79,7 @@
 
 ---
 
-### ✈️ [Wanderlust](https://github.com/tusharkshirsagar13/wanderlust)
+### ✈️ [Wanderlust](https://wanderlust-3ygz.onrender.com/)
 > Full-stack travel accommodation marketplace connecting hosts and guests with interactive maps and reviews.
 
 - **Stack:** Node.js, Express.js, MongoDB, Passport.js, Mapbox API, Cloudinary, EJS
